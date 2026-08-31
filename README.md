@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="./iamboth.png" alt="iamboth" />
+  <img src="./edit.svg" alt="iamboth" />
 </p>
 
